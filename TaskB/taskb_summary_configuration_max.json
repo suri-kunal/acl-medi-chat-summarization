@@ -1,0 +1,142 @@
+{
+  "objective_exam": {
+    "suryakiran786/5-KFold-dialogled-large-with-section-information-objective_exam-1": {
+      "num_beams": 15,
+      "early_stopping": true,
+      "length_penalty": 2.0,
+      "no_repeat_ngram_size": 7
+    },
+    "suryakiran786/5-KFold-dialogled-large-with-section-information-objective_exam-0": {
+      "num_beams": 10,
+      "early_stopping": true,
+      "length_penalty": 0.6000000000000001,
+      "no_repeat_ngram_size": 5
+    },
+    "suryakiran786/5-KFold-dialogled-large-with-section-information-objective_exam-2": {
+      "num_beams": 15,
+      "early_stopping": true,
+      "length_penalty": 1.3000000000000005,
+      "no_repeat_ngram_size": 7
+    },
+    "suryakiran786/5-KFold-dialogled-large-with-section-information-objective_exam-4": {
+      "num_beams": 10,
+      "early_stopping": true,
+      "length_penalty": 0.9000000000000004,
+      "no_repeat_ngram_size": 5
+    },
+    "suryakiran786/5-KFold-dialogled-large-with-section-information-objective_exam-3": {
+      "num_beams": 5,
+      "early_stopping": true,
+      "length_penalty": -0.2999999999999998,
+      "no_repeat_ngram_size": 6
+    }
+  },
+  "objective_results": {
+    "suryakiran786/5-KFold-dialogled-large-with-section-information-objective_results-3": {
+      "num_beams": 6,
+      "early_stopping": true,
+      "length_penalty": -0.2999999999999998,
+      "no_repeat_ngram_size": 9
+    },
+    "suryakiran786/5-KFold-dialogled-large-with-section-information-objective_results-1": {
+      "num_beams": 6,
+      "early_stopping": true,
+      "length_penalty": -1.2999999999999998,
+      "no_repeat_ngram_size": 3
+    },
+    "suryakiran786/5-KFold-dialogled-large-with-section-information-objective_results-2": {
+      "num_beams": 5,
+      "early_stopping": true,
+      "length_penalty": -1.0,
+      "no_repeat_ngram_size": 5
+    },
+    "suryakiran786/5-KFold-dialogled-large-with-section-information-objective_results-0": {
+      "num_beams": 7,
+      "early_stopping": true,
+      "length_penalty": 0.7000000000000002,
+      "no_repeat_ngram_size": 3
+    },
+    "suryakiran786/5-KFold-dialogled-large-with-section-information-objective_results-4": {
+      "num_beams": 6,
+      "early_stopping": true,
+      "length_penalty": -1.2999999999999998,
+      "no_repeat_ngram_size": 5
+    }
+  },
+  "assessment_and_plan": {
+    "suryakiran786/5-KFold-dialogled-large-with-section-information-assessment_and_plan-0": {
+      "num_beams": 11,
+      "early_stopping": true,
+      "length_penalty": 1.2000000000000002,
+      "no_repeat_ngram_size": 6
+    },
+    "suryakiran786/5-KFold-dialogled-large-with-section-information-assessment_and_plan-2": {
+      "num_beams": 10,
+      "early_stopping": true,
+      "length_penalty": 1.5,
+      "no_repeat_ngram_size": 4
+    },
+    "suryakiran786/5-KFold-dialogled-large-with-section-information-assessment_and_plan-1": {
+      "num_beams": 10,
+      "early_stopping": true,
+      "length_penalty": -1.5,
+      "no_repeat_ngram_size": 7
+    },
+    "suryakiran786/5-KFold-dialogled-large-with-section-information-assessment_and_plan-3": {
+      "num_beams": 11,
+      "early_stopping": true,
+      "length_penalty": 1.4000000000000004,
+      "no_repeat_ngram_size": 3
+    },
+    "suryakiran786/5-KFold-dialogled-large-with-section-information-assessment_and_plan-4": {
+      "num_beams": 13,
+      "early_stopping": true,
+      "length_penalty": 1.5,
+      "no_repeat_ngram_size": 6
+    }
+  },
+  "subjective": {
+    "suryakiran786/5-KFold-dialogled-large-with-section-information-subjective-2": {
+      "num_beams": 8,
+      "early_stopping": true,
+      "length_penalty": 0.30000000000000027,
+      "no_repeat_ngram_size": 4
+    },
+    "suryakiran786/5-KFold-dialogled-base-with-section-information-subjective-2": {
+      "num_beams": 7,
+      "early_stopping": true,
+      "length_penalty": 1.4000000000000004,
+      "no_repeat_ngram_size": 5
+    },
+    "suryakiran786/5-KFold-dialogled-large-with-section-information-subjective-0": {
+      "num_beams": 5,
+      "early_stopping": true,
+      "length_penalty": 0.4000000000000003,
+      "no_repeat_ngram_size": 6
+    },
+    "suryakiran786/5-KFold-dialogled-large-with-section-information-subjective-1": {
+      "num_beams": 5,
+      "early_stopping": true,
+      "length_penalty": 0.20000000000000015,
+      "no_repeat_ngram_size": 9
+    },
+    "suryakiran786/5-KFold-dialogled-large-with-section-information-subjective-4": {
+      "num_beams": 8,
+      "early_stopping": true,
+      "length_penalty": 1.7000000000000002,
+      "no_repeat_ngram_size": 9
+    },
+    "suryakiran786/5-KFold-dialogled-large-with-section-information-subjective-3": {
+      "num_beams": 12,
+      "early_stopping": true,
+      "length_penalty": 1.7000000000000002,
+      "no_repeat_ngram_size": 5
+    },
+    "suryakiran786/5-KFold-dialogled-base-with-section-information-subjective-0": {
+      "num_beams": 6,
+      "early_stopping": true,
+      "length_penalty": -0.8999999999999999,
+      "no_repeat_ngram_size": 14
+    }
+  }
+}

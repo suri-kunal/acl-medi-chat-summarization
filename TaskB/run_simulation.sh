@@ -1,0 +1,3 @@
+python TaskB_faithfullness_benchmark.py
+python TaskB_faithfullness_max_benchmark.py
+

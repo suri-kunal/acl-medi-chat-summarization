@@ -1,0 +1,100 @@
+{
+  "Bio_ClinicalBERT": {
+    "suryakiran786/5-fold-stratified-cv-dialogled-large-with-section-description-complete-data-0": {
+      "num_beams": 5,
+      "early_stopping": true,
+      "length_penalty": -0.09999999999999988,
+      "no_repeat_ngram_size": 5
+    },
+    "suryakiran786/5-fold-stratified-cv-dialogled-large-with-section-description-complete-data-3": {
+      "num_beams": 15,
+      "early_stopping": true,
+      "length_penalty": 0.8000000000000003,
+      "no_repeat_ngram_size": 4
+    },
+    "suryakiran786/5-fold-stratified-cv-dialogled-large-with-section-description-complete-data-1": {
+      "num_beams": 9,
+      "early_stopping": true,
+      "length_penalty": 0.30000000000000027,
+      "no_repeat_ngram_size": 4
+    },
+    "suryakiran786/5-fold-stratified-cv-dialogled-large-with-section-description-complete-data-4": {
+      "num_beams": 6,
+      "early_stopping": true,
+      "length_penalty": 0.30000000000000027,
+      "no_repeat_ngram_size": 4
+    },
+    "suryakiran786/5-fold-stratified-cv-dialogled-large-with-section-description-complete-data-2": {
+      "num_beams": 9,
+      "early_stopping": true,
+      "length_penalty": 0.4000000000000003,
+      "no_repeat_ngram_size": 6
+    },
+    "suryakiran786/5-fold-stratified-cv-flan-t5-large-with-section-description-complete-data-0": {
+      "num_beams": 12,
+      "early_stopping": true,
+      "length_penalty": 1.6,
+      "no_repeat_ngram_size": 3
+    },
+    "suryakiran786/5-fold-stratified-cv-biobart-v2-base-with-section-description-complete-data-1": {
+      "num_beams": 10,
+      "early_stopping": true,
+      "length_penalty": 1.3000000000000005,
+      "no_repeat_ngram_size": 6
+    },
+    "suryakiran786/5-fold-stratified-cv-biobart-v2-base-with-section-description-complete-data-4": {
+      "num_beams": 7,
+      "early_stopping": true,
+      "length_penalty": 0.5,
+      "no_repeat_ngram_size": 5
+    },
+    "suryakiran786/5-fold-stratified-cv-biobart-v2-base-with-section-description-complete-data-3": {
+      "num_beams": 8,
+      "early_stopping": true,
+      "length_penalty": 1.3000000000000005,
+      "no_repeat_ngram_size": 4
+    },
+    "suryakiran786/5-fold-stratified-cv-dialogled-base-with-section-description-complete-data-1": {
+      "num_beams": 9,
+      "early_stopping": true,
+      "length_penalty": 1.0,
+      "no_repeat_ngram_size": 5
+    },
+    "suryakiran786/5-fold-stratified-cv-biobart-v2-base-with-section-description-complete-data-0": {
+      "num_beams": 15,
+      "early_stopping": true,
+      "length_penalty": 2.0,
+      "no_repeat_ngram_size": 4
+    },
+    "suryakiran786/5-fold-stratified-cv-dialogled-base-with-section-description-complete-data-3": {
+      "num_beams": 10,
+      "early_stopping": true,
+      "length_penalty": 1.9000000000000004,
+      "no_repeat_ngram_size": 4
+    },
+    "suryakiran786/5-fold-stratified-cv-dialogled-base-with-section-description-complete-data-4": {
+      "num_beams": 10,
+      "early_stopping": true,
+      "length_penalty": 1.9000000000000004,
+      "no_repeat_ngram_size": 7
+    },
+    "suryakiran786/5-fold-stratified-cv-dialogled-base-with-section-description-complete-data-0": {
+      "num_beams": 14,
+      "early_stopping": true,
+      "length_penalty": 1.4000000000000004,
+      "no_repeat_ngram_size": 4
+    },
+    "suryakiran786/5-fold-stratified-cv-biobart-v2-base-with-section-description-complete-data-2": {
+      "num_beams": 13,
+      "early_stopping": true,
+      "length_penalty": 1.8000000000000005,
+      "no_repeat_ngram_size": 5
+    },
+    "suryakiran786/5-fold-stratified-cv-dialogled-base-with-section-description-complete-data-2": {
+      "num_beams": 10,
+      "early_stopping": true,
+      "length_penalty": 1.2000000000000002,
+      "no_repeat_ngram_size": 7
+    }
+  }
+}

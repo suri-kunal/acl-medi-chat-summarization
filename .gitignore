@@ -1,0 +1,5 @@
+__pycache__/
+wandb/
+.lock
+.ipynb_checkpoints/
+.Trash-0/
